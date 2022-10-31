@@ -1,0 +1,14 @@
+E:\проект на c#\Restoran\Restoran\bin\Debug\Restoran.exe.config
+E:\проект на c#\Restoran\Restoran\bin\Debug\Restoran.exe
+E:\проект на c#\Restoran\Restoran\bin\Debug\Restoran.pdb
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.csproj.AssemblyReference.cache
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.RegostrationForm.resources
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.csproj.GenerateResource.cache
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.csproj.CoreCompileInputs.cache
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.exe
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.pdb
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.PizzaForm.resources
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.PlaccintaForm.resources
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.StarForm.resources
+E:\проект на c#\Restoran\Restoran\obj\Debug\Restoran.SunDayForm.resources
